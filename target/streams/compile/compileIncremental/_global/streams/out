@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 6 products, 1 sources, 2 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/Hello.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Main, HelloActor)[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 1 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Main, HelloActor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Konstantin\Desktop\HelloTest\target\scala-2.10\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.10:1.4.3:compile for Scala 2.10.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 49b65d6d for Scala compiler version 2.10.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\lib\resources.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\lib\rt.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\lib\sunrsasign.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\lib\jsse.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\lib\jce.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\lib\charsets.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\lib\jfr.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\jvm\zulu@1.8.272\jre\classes;C:\Users\Konstantin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.10.7\scala-library-2.10.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Konstantin\Desktop\HelloTest\target\scala-2.10\classes;C:\Users\Konstantin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\akka\akka-actor_2.10\2.2-M1\akka-actor_2.10-2.2-M1.jar;C:\Users\Konstantin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\config\1.0.0\config-1.0.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.989894 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
